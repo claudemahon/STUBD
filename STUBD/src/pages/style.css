@@ -1,0 +1,7 @@
+.bg-img {
+ background-image: url('../images/brandmark-design-4200x4200.png');
+ background-position: center;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: contain;   
+}
